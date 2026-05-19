@@ -13,7 +13,7 @@ Hi 👋, I’m **Pratik Soneji**, a self-driven **Full-Stack Web Developer (MERN
 
 I love appreciating powerful engineering — visualizing ideas in my mind and turning them into real, working software. Building reliable, scalable applications and continuously improving through learning and iteration is what excites me.
 
-- 🌱 Currently learning **Next.js, Angular, PostgreSQL, Spring Boot**
+- 🌱 Currently learning **Next.js, Angular, PostgreSQL**
 - 💬 Ask me about **React.js, MongoDB, Java**
 - 📫 Reach me at **pratiksoneji95@gmail.com**
 - ⚡ Fun fact: *People don’t care about what you say, they care about what you build.*
