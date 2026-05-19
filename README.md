@@ -79,12 +79,12 @@ I love appreciating powerful engineering — visualizing ideas in my mind and tu
 <h2>🔗 Connect with Me</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/pratik-soneji" target="_blank">
+  <a href="https://linkedin.com/in/pratiksoneji" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   
-  <a href="https://leetcode.com/kaizokuo" target="_blank">
+  <a href="https://leetcode.com/u/Pratik_Soneji/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" width="50" height="50" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;
