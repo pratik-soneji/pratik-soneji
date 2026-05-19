@@ -85,7 +85,7 @@ I love appreciating powerful engineering — visualizing ideas in my mind and tu
   &nbsp;&nbsp;&nbsp;
   
   <a href="https://leetcode.com/u/Pratik_Soneji/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="50" height="50" alt="LeetCode" />
+    <img src="https://cdn.simpleicons.org/leetcode" width="50" height="50" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
