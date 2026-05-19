@@ -76,14 +76,20 @@ I love appreciating powerful engineering — visualizing ideas in my mind and tu
 
 ---
 
-## 🔗 Connect with Me
+<h2>🔗 Connect with Me</h2>
 
-<a href="https://linkedin.com/in/pratik soneji">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
-</a>
-<a href="https://www.leetcode.com/kaizokuo">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" />
-</a>
-<a href="mailto:pratiksoneji95@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" />
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/pratik-soneji" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/kaizokuo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="50" height="50" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:pratiksoneji95@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail" />
+  </a>
+</p>
